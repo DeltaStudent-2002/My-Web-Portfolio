@@ -16,6 +16,7 @@ html, body {
 width:90%;
 margin:auto;
 padding:60px 0;
+min-height: 500px;
 }
 
 .title{
